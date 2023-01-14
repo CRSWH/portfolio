@@ -32,17 +32,17 @@ body {
 
 }
 
-.img{
+.img {
     margin-top: 45px;
 }
 
-@media (max-width: 575.98px){
+@media (max-width: 575.98px) {
     .header-title {
         margin-top: 50px;
     }
 
     .header {
-        height: 600px;
+        height: 730px;
         text-align: center;
     }
 
@@ -55,31 +55,15 @@ body {
         text-align: center;
     }
 
-    .img{
-        margin-top: -15px;
-    }
+
 }
 
 @media (max-width: 768px) {
-    .header-title {
-        margin-top: 150px;
-    }
-
-    .header {
-        height: 600px;
-        text-align: center;
-    }
-
-    .tes p {
-        margin-top: -50px;
-    }
-
     .box {
         max-width: 90%;
     }
 
-    /* .cover img{
-        margin-top: 30;
-    } */
+    .cover img {
+        margin-top: 105px;
+    }
 }
-
